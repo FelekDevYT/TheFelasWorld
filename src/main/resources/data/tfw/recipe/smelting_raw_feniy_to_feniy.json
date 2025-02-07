@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 15,
+  "group": "feniy",
+  "ingredient": {
+    "item": "tfw:raw_feniy"
+  },
+  "result": {
+    "count": 1,
+    "id": "tfw:feniy"
+  }
+}

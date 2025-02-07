@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "tfw:block/gargia_planks",
+    "bottom": "tfw:block/gargia_planks",
+    "top": "tfw:block/gargia_planks",
+    "side": "tfw:block/gargia_planks"
+  },
+  "render_type": "solid"
+}

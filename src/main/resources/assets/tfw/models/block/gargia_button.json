@@ -1,0 +1,8 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "tfw:block/gargia_planks",
+    "texture": "tfw:block/gargia_planks"
+  },
+  "render_type": "solid"
+}

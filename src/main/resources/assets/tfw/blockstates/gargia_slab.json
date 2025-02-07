@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tfw:block/gargia_slab"
+    },
+    "type=top": {
+      "model": "tfw:block/gargia_slab_top"
+    },
+    "type=double": {
+      "model": "tfw:block/gargia_slab_full"
+    }
+  }
+}

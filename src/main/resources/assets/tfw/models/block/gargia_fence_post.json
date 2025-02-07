@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "tfw:block/gargia_planks",
+    "particle": "tfw:block/gargia_planks"
+  },
+  "render_type": "solid"
+}

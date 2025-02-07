@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tfw:block/gargia_leaves",
+    "particle": "tfw:block/gargia_leaves"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "tfw:block/gargia_sapling",
+    "particle": "tfw:block/gargia_sapling"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,27 @@
+{
+  "item.tfw.feniy": "Feniy",
+  "item.tfw.raw_feniy": "Raw feniy",
+  "item.tfw.lat": "Lat",
+  "item.tfw.feniy_sword": "Feniy sword",
+  "item.tfw.feniy_pickaxe": "Feniy pickaxe",
+  "item.tfw.feniy_shovel": "Feniy shovel",
+  "item.tfw.feniy_hoe": "Feniy hoe",
+  "item.tfw.feniy_axe": "Feniy axe",
+
+  "effect.tfw.kill": "Kill",
+
+  "block.tfw.feniy_block": "Block of feniy",
+  "block.tfw.feniy_ore": "Block of feniy ore",
+  "block.tfw.gargia_button": "Gargia button",
+  "block.tfw.gargia_fence": "Gargia fence",
+  "block.tfw.gargia_fence_fate": "Gargia fence fate",
+  "block.tfw.gargia_leaves": "Gargia leaves",
+  "block.tfw.gargia_log": "Gargia log",
+  "block.tfw.gargia_planks": "Gargia planks",
+  "block.tfw.gargia_pressure_plate": "Gargia pressure plate",
+  "block.tfw.gargia_slab": "Gargia slab",
+  "block.tfw.gargia_stairs": "Gargia stairs",
+  "block.tfw.gargia_wood": "Gargia wood",
+
+  "creativetab.tfw.tfw_tab": "The Fela's world!"
+}

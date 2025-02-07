@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "tfw:block/gargia_pressure_plate"
+    },
+    "powered=true": {
+      "model": "tfw:block/gargia_pressure_plate_down"
+    }
+  }
+}
